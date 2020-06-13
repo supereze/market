@@ -1,0 +1,13 @@
+market/applications/home/migrations/*
+market/applications/caja/migrations/*
+market/applications/producto/migrations/*
+market/applications/users/migrations/*
+market/applications/venta/migrations/*
+
+# Visual Studio Code # 
+.vscode/* 
+!.vscode/settings.json 
+!.vscode/tasks.json 
+!.vscode/launch.json 
+!.vscode/extensions.json 
+.history
